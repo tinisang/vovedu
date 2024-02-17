@@ -1,0 +1,420 @@
+/*------100---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Thin.otf);
+    font-weight: 100;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Thin\ Italic.otf);
+    font-weight: 100;
+    font-style:italic;
+}
+/*------200---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Xlight.otf);
+    font-weight: 200;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Xlight\ Italic.otf);
+    font-weight: 200;
+    font-style:italic;
+}
+
+/*------300---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Light.otf);
+    font-weight: 300;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Light\ Italic.otf);
+    font-weight: 300;
+    font-style:italic;
+}
+
+/*------400---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Regular.otf);
+    font-weight: 400;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Italic.otf);
+    font-weight: 400;
+    font-style:italic;
+}
+
+/*------500---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Medium.otf);
+    font-weight: 500;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Medium\ Italic.otf);
+    font-weight: 500;
+    font-style:italic;
+}
+
+/*------600---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ SemiBold.otf);
+    font-weight: 600;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ SemiBold\ Italic.otf);
+    font-weight: 600;
+    font-style:italic;
+}
+
+/*------700---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Bold.otf);
+    font-weight: 700;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Bold\ Italic.otf);
+    font-weight: 700;
+    font-style:italic;
+}
+
+/*------800---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ XBold.otf);
+    font-weight: 800;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ XBold\ Italic.otf);
+    font-weight: 800;
+    font-style:italic;
+}
+
+/*------900---------*/
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Heavy.otf);
+    font-weight: 900;
+    font-style:normal;
+}
+@font-face {
+    font-family: SVN-Gilroy;
+    src: url(../assets/fonts/SVN-Gilroy\ Heavy\ Italic.otf);
+    font-weight: 900;
+    font-style:italic;
+}
+
+/*-------------------Be Vietnam Pro---------------*/
+/*------100---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Thin.ttf);
+    font-weight: 100;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-ThinItalic.ttf);
+    font-weight: 100;
+    font-style:italic;
+}
+/*------200---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-ExtraLight.ttf);
+    font-weight: 200;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style:italic;
+}
+
+/*------300---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Light.ttf);
+    font-weight: 300;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-LightItalic.ttf);
+    font-weight: 300;
+    font-style:italic;
+}
+
+/*------400---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Regular.ttf);
+    font-weight: 400;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Italic.ttf);
+    font-weight: 400;
+    font-style:italic;
+}
+
+/*------500---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Medium.ttf);
+    font-weight: 500;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-MediumItalic.ttf);
+    font-weight: 500;
+    font-style:italic;
+}
+
+/*------600---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-SemiBold.ttf);
+    font-weight: 600;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style:italic;
+}
+
+/*------700---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Bold.ttf);
+    font-weight: 700;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-BoldItalic.ttf);
+    font-weight: 700;
+    font-style:italic;
+}
+
+/*------800---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-ExtraBold.ttf);
+    font-weight: 800;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style:italic;
+}
+
+/*------900---------*/
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-Black.ttf);
+    font-weight: 900;
+    font-style:normal;
+}
+@font-face {
+    font-family: Be Vietnam Pro;
+    src: url(../assets/fonts/BeVietnamPro-BlackItalic.ttf);
+    font-weight: 900;
+    font-style:italic;
+}
+
+
+*{
+    font-family: SVN-Gilroy;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+:root {
+    
+    /* Colors */
+    --Primary--Red: #E93933;
+    --Pure--White: #FFFFFF;
+    --Bod--Text-Gray: #AAAAAA;
+    --Bod--Text-Black: #2D2D2D;
+    --Red--100: #610300;
+    --Red--200: #830B07;
+    --Red--300: #A51712;
+    --Red--400: #C72621;
+    --Red--600: #FF4C46;
+    --Red--700: #FF746F;
+    --Red--800: #FF9C99;
+    --Red--900: #FFC5C3;
+    --Red--1000: #FFEDEC;
+    --Body--Text-Bland: #424242;
+    --Red-Gradient: linear-gradient(74deg, #E93933 28.41%, #F77672 81.54%);
+    
+    /* Text-size styles */
+    --body--text---bold: 16px;
+    --body--text---normal: 16px;
+    --heading---h4: 24px;
+    --heading---h3: 36px;
+    
+    /* Effect styles */
+    --shadow--normal:  0px 4px 29px rgba(0, 0, 0, 0.2);
+    
+}
+h3{
+    color: var(--Primary-Red, #E93933);
+    
+    /* Heading/H3 */
+    font-family: SVN-Gilroy;
+    font-size: var(--heading---h3);
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.25em; /* 125% */
+}
+
+h4{
+    color: var(--body-text-black, #2D2D2D);
+    
+    /* Heading/H4 */
+    font-family: SVN-Gilroy;
+    font-size: var(--heading---h4);
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.17em; /* 116.667% */
+}
+    
+body{
+    color: var(--body-text-black, #2D2D2D);
+
+    /* Body Text/Normal */
+    font-family: SVN-Gilroy;
+    font-size: var(--body--text---normal);
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.38em; /* 137.5% */   
+    background: white;
+}
+
+body.stopScroll{
+    overflow: hidden;
+}
+
+.normal-text{
+    color: var(--body-text-gray, #AAA);
+
+    /* Body Text/Normal */
+    font-family: SVN-Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 137.5% */
+}
+.bold-text{
+    color: #000;
+    font-family: SVN-Gilroy;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px; /* 130.769% */
+}
+
+
+.isLoading{
+    animation: 2s infinite loading;
+    pointer-events: none;
+  }
+.isLoadingSlow{
+animation: 1s infinite loading;
+}
+
+
+@keyframes loading {
+    0%   {opacity: 0.2;}
+    25%   {opacity: 0.4;}
+    50%   {opacity: 0.6;}
+    75%   {opacity: 0.4;}
+    100%  {opacity: 0.2;}
+}
+
+.VOVeduContainer{
+    width: 100%;
+    padding:0px calc((100% - 1180px)/2);
+    display: block;
+    /* margin:0px auto; */
+    position: relative;
+}
+
+@media (max-width:1200px){
+	.VOVeduContainer{
+		width:auto;
+        padding: 0px 30px;
+	}
+}
+@media (max-width:768px){
+	.VOVeduContainer{
+		width:auto;
+        padding: 0px 15px;
+	}
+}
+
+.separator{
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.main_wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.VOVeduFooter__wrapper{
+    margin-top: auto;
+    background-color: white;
+}
+
+
+@keyframes pulse {
+	0% {
+		transform: scale(1);
+		box-shadow: 0 0 0 0 rgba(255,255,255, 0.7);
+	}
+
+	70% {
+		transform: scale(1.2);
+		box-shadow: 0 0 0 10px rgba(255,255,255, 0);
+	}
+
+	100% {
+		transform: scale(1);
+		box-shadow: 0 0 0 0 rgba(255,255,255, 0);
+	}
+}

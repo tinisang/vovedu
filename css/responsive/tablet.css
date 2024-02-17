@@ -1,0 +1,178 @@
+
+@media (max-width:1200px){
+    .homeSlider_wraper .countup_section{
+        display: none;
+    }
+	.homeSlider_wraper .decor{
+        height: 27vh;
+    }
+    .homeSlider_wraper .slide-item .call-to-action{
+        bottom: 30px;
+    }
+    .homeSlider_wraper .slide-item .call-to-action .title{
+        font-size: 45px;
+        line-height: 1.25em;
+    }
+    .VOVeduHeader .button_wrapper{
+        display: none;
+    }
+    .features{
+        padding-top: 70px;
+    }
+    .section_general>.title{
+        font-size: 24px;
+        line-height: 1.25em;
+    }
+    .testimonial .VOVeduContainer .title-section .title{
+        font-size: 24px;
+        line-height: 1.25em;
+        
+    }
+    .question_area .question_wrapper .col2 .title_area .title{
+        font-size: 24px;
+        line-height: 1.25em;
+        
+    }
+    .information_documents .row1 .col1 .title{
+        
+        font-size: 24px;
+        line-height: 1.25em;
+    }
+    .form_area .col2 .calltoaction .title{
+        font-size: 24px;
+        line-height: 1.25em;
+
+    }
+    .form_area .col2 .calltoaction .description{
+        font-size: 14px;
+        line-height: 1.5em;
+    }
+    .section_general .separator{
+        margin-top: -12px;
+    }
+    .features .features_list .feature-item .number_area{
+        font-size: 72px;
+        line-height: 1em;
+    }
+    .features .features_list .feature-item .image_icon{
+        height: 70px;
+    }
+    .features .features_list .feature-item .feature-title{
+        font-size: 20px;
+        line-height: 1.25em;
+    }
+    
+    .features_holder{
+        margin-top: 90px;
+    }
+    .history .history_timeline_home{
+        margin-top: 70px;
+        gap: 40px;
+    }
+    .intro_education_title_section{
+        margin-top: 70px;
+    }
+    .video_section_wrapper{
+        grid-template-columns: 1.3fr 1fr;
+    }
+    .video_section_wrapper .col2{
+        height: 350px;
+    }
+    .activities_wrapper .content_wrapper .col2 .activity_item{
+        height: 300px;
+    }
+    .activities_wrapper .text_area .trans_V{
+        height: 141px;
+        top: -68px;
+        left: -57px;
+    }
+    .home_images .slider_image_area .row_1 .text_area .trans_V{
+        height: 141px;
+        top: -68px;
+        left: -57px;
+    }
+    .home_images .slider_image_area .image_area .image_item{
+        height: 300px;
+    }
+    .question_area .question_wrapper{
+        grid-template-columns: .6fr 1fr;
+    }
+    .question_area .col2 .main_area .question_item .question{
+        font-size: 18px;
+        line-height: 1.25em;
+    }
+    .question_area .col2 .main_area .question_item{
+        padding-bottom: 4px;
+    }
+    .question_area .col2 .main_area{
+        gap: 14px;
+    }
+    .form_area{
+        grid-template-columns: 1fr 1.5fr;
+    }
+    .hero-section{
+        height: 500px;
+    }
+    .hero-section .half-v{
+        height: 100%;
+    }
+    .hero-section .title-area .title-page{
+        font-size: 45px;
+        line-height: 1.25em;
+    }
+    .leaders_wrapper .leader_item .col1 .images .main_image{
+        height: 352px;
+    }
+    .leaders_wrapper .leader_item .col1 .images .v1{
+        height: 352px;
+    }
+    .leaders_wrapper .leader_item .col1 .images .v2{
+        transform: translateX(121px);
+        height: 283px;
+    }
+    .leaders_wrapper .leader_item .col1 .images .o-shape{
+        transform: translateX(166px);
+        height: 150px;
+    }
+    .information_news .row1 .col1{
+        padding-bottom: 8px;
+    }
+    .information_events .row1 .col1{
+        padding-bottom: 8px;
+    }
+    .information_documents .row1 .col1{
+        padding-bottom: 8px;
+    }
+    .information_news .row1 .col1 .title{
+        font-size: 24px;
+        line-height: 1.25em;
+    }
+    .information_events .row1 .col1 .title{
+        font-size: 24px;
+        line-height: 1.25em;
+    }
+    .singlepost .content-container .col1{
+        padding-right: 28px;
+    }
+    .singlepost .col2{
+        padding-left: 28px;
+    }
+    .singlepost .col2 .section-title{
+        font-size: 24px;
+        line-height: 1.25em;
+    }
+    .student_clb>.VOVeduContainer{
+        grid-template-columns: 1fr 1.4fr;
+    }
+    .club_introduction .club_item .club_wrapper{
+        grid-template-columns: 0.4fr 1fr;
+    }
+    .club_introduction_title_section{
+        grid-template-columns: 0.4fr 1fr;
+
+    }
+    .event_float .event_float_container{
+        transform: scale(0.7);
+        transform-origin: left bottom;
+    }
+}
